@@ -1,7 +1,7 @@
 === Orbisius Simple Shortlink ===
 Contributors: lordspace,orbisius
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7APYDVPBCSY9A
-Tags: wp,orbisius,bbpress,
+Tags: wp,orbisius,redirec,shortlink,short link,shortener,short,link,links,short links,bitly,bit.ly
 Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: 1.0.1

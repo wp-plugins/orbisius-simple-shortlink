@@ -1,12 +1,12 @@
 <?php
 /*
   Plugin Name: Orbisius Simple Shortlink
-  Plugin URI:  http://club.orbisius.com/products/
-  Description: Simple redirect to a post, page or a custom post type.
-  Version:     1.0.0
+  Plugin URI:  http://club.orbisius.com/products/wordpress-plugins/orbisius-simple-shortlink/
+  Description: Simple redirect to a post, page or a custom post type. Just link it as site.com/goto/123
+  Version:     1.0.1
   Author:      Slavi Marinov | Orbisius
   Author URI:  http://orbisius.com
-  Text Domain: my_cool_plugin
+  Text Domain: orbisius-simple-shortlink
   Domain Path: /lang
  */
 

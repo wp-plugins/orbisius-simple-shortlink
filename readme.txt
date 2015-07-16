@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: wp,orbisius,bbpress,
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 Allows you to redirect to page, post or any other custom post type.
@@ -57,6 +57,9 @@ OR just upload it from Plugins > Add > Upload
 Just install the plugin and activate it. The feedback text appear in the public area
 
 == Changelog ==
+
+= 1.0.1 =
+* Updated descriptions and links to product page.
 
 = 1.0.0 =
 * Initial release
